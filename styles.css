@@ -1,0 +1,9 @@
+
+            li.menu {display: inline}
+            h1 {color: white; font-size: 35px}
+            a.menu {background-color: azure;
+                     padding: 10px; 
+                     border-radius: 9px;
+                    font-weight: bold;
+                    margin: 5px;
+                }
